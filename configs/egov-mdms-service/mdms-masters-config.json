@@ -33,7 +33,7 @@
       "moduleDefinition": null,
       "isStateLevel": true,
       "uniqueKeys": [
-        "$.id",
+        "$.id", 
         "$.tenantId"
       ]
     },
